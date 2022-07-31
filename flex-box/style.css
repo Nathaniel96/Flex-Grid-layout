@@ -1,0 +1,149 @@
+*{
+    padding: 0px;
+    max-width: 100%;
+}
+ html,body {
+     background-color: aliceblue;
+ }
+ 
+ main {
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+ 
+
+ /* Box-1 styles */
+
+ .box-1{
+    height: 60%;
+    width: 12%;
+    background-color:rgba(255, 123, 0, 0.925);
+    padding:2rem;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+ }
+
+.box-1 h2{
+    padding-top: 2rem;
+    color:white;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 25px;
+
+}
+.box-1 p{
+    font-weight: bold;
+    padding-top: 2rem;
+    font-family:sans-serif;
+    font-size: 12px;
+    letter-spacing: 1px;
+
+}
+.box-1 button{
+    padding: 7px;
+    margin-top:3rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 14px;
+    font-weight: bold;
+    color:rgba(255, 123, 0, 0.925) ;
+    
+}
+
+button:hover{
+    background-color: bisque;
+    padding: 8px;
+
+}
+
+/* Box-2 Style */
+
+
+.box-2{
+    height: 60%;
+    width: 12%;
+    background-color:rgb(33, 96, 121);
+    padding:2rem;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+ }
+
+.box-2 h2{
+    padding-top: 2rem;
+    color:white;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 25px;
+
+}
+.box-2 p{
+    font-weight: bold;
+    padding-top: 0.1rem;
+    font-family:sans-serif;
+    font-size: 12px;
+
+}
+.box-2 button{
+    padding: 7px;
+    margin-top:5rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 14px;
+    font-weight: bold;
+    color:rgb(33, 96, 121);
+    
+}
+
+button:hover{
+    background-color: bisque;
+    padding: 8px;
+
+}
+
+/* Box-3 Styles */
+
+
+.box-3{
+    height: 60%;
+    width: 12%;
+    background-color:rgb(12, 47, 61);
+    padding:2rem;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+ }
+
+.box-3 h2{
+    padding-top: 2rem;
+    color:white;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 25px;
+
+}
+.box-3 p{
+    font-weight: bold;
+    padding-top: 1.7rem;
+    font-family:sans-serif;
+    font-size: 12px;
+
+}
+.box-3 button{
+    padding: 7px;
+    margin-top:5.5rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 14px;
+    font-weight: bold;
+    color:rgba(0, 0, 0, 0.35) 0px 5px 15px ;
+    
+}
+
+button:hover{
+    background-color: bisque;
+    padding: 8px;
+
+}
+
+
